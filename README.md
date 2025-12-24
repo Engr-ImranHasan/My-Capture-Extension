@@ -3,7 +3,7 @@ Boost your productivity with My Capture, the all-in-one browser extension design
 
 Stop cluttering your downloads folder. With My Capture, you can organize screenshots, images, and text notes automatically in Google Drive or your local computer.
 
-✨ Key Features:
+**✨ Key Features:**
 
 ☁️ Dual Storage Modes: Easily toggle between saving to the Cloud (Google Drive) or your PC.
 
@@ -25,7 +25,7 @@ Save Image: Downloads images directly to your preferred storage.
 
 🔒 Secure & Private: Uses official Google Auth for Drive access. Your data stays yours.
 
-How to use:
+**How to use:**
 
 Click the extension icon.
 
